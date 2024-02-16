@@ -1,0 +1,10 @@
+[
+    {
+      "ip": "141.95.234.19",
+      "port": 2057,
+      "x2": True,
+      "name": "Rostov 01",
+      "online": 1,
+      "maxonline": 50
+    }
+ ]
